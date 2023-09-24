@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Boot_camp_qwick_sort/1.0.0": {
+        "runtime": {
+          "Boot_camp_qwick_sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Boot_camp_qwick_sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

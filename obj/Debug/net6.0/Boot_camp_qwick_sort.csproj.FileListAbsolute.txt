@@ -1,0 +1,15 @@
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/bin/Debug/net6.0/Boot_camp_qwick_sort
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/bin/Debug/net6.0/Boot_camp_qwick_sort.deps.json
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/bin/Debug/net6.0/Boot_camp_qwick_sort.runtimeconfig.json
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/bin/Debug/net6.0/Boot_camp_qwick_sort.dll
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/bin/Debug/net6.0/Boot_camp_qwick_sort.pdb
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/obj/Debug/net6.0/Boot_camp_qwick_sort.csproj.AssemblyReference.cache
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/obj/Debug/net6.0/Boot_camp_qwick_sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/obj/Debug/net6.0/Boot_camp_qwick_sort.AssemblyInfoInputs.cache
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/obj/Debug/net6.0/Boot_camp_qwick_sort.AssemblyInfo.cs
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/obj/Debug/net6.0/Boot_camp_qwick_sort.csproj.CoreCompileInputs.cache
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/obj/Debug/net6.0/Boot_camp_qwick_sort.dll
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/obj/Debug/net6.0/refint/Boot_camp_qwick_sort.dll
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/obj/Debug/net6.0/Boot_camp_qwick_sort.pdb
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/obj/Debug/net6.0/Boot_camp_qwick_sort.genruntimeconfig.cache
+/Users/danilshmelev/Documents/Geek brain education/C#/Boot_camp_qwick_sort/obj/Debug/net6.0/ref/Boot_camp_qwick_sort.dll
